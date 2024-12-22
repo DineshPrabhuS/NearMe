@@ -371,12 +371,12 @@ Execute the programs and publish them.
 ```
 ## OUTPUT
 
-![alt text](dinesh/mapapp/static/map.png)
-![alt text](dinesh/mapapp/static/lake.png)
-![alt text](dinesh/mapapp/static/beach.png)
-![alt text](dinesh/mapapp/static/garden.png)
-![alt text](dinesh/mapapp/static/temple1.png)
-![alt text](dinesh/mapapp/static/temple2.png)
+![alt text](dinesh1/mapapp/static/map.png)
+![alt text](dinesh1/mapapp/static/lake.png)
+![alt text](dinesh1/mapapp/static/beach.png)
+![alt text](dinesh1/mapapp/static/garden.png)
+![alt text](dinesh1/mapapp/static/temple1.png)
+![alt text](dinesh1/mapapp/static/temple2.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
